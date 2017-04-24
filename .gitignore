@@ -19,12 +19,3 @@ bin/*
 Berksfile.lock
 .zero-knife.rb
 Policyfile.lock.json
-
-# recipes
-recipes/*
-
-# attributes
-attributes/*
-
-# templates
-templates/*
